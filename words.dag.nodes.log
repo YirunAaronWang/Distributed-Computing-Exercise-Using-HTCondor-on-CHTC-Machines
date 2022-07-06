@@ -1,0 +1,119 @@
+000 (230373.000.000) 2022-04-14 18:20:58 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1096_57e3>
+    DAG Node: 1
+...
+000 (230373.001.000) 2022-04-14 18:20:58 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1096_57e3>
+    DAG Node: 1
+...
+000 (230373.002.000) 2022-04-14 18:20:58 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1096_57e3>
+    DAG Node: 1
+...
+000 (230373.003.000) 2022-04-14 18:20:58 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1096_57e3>
+    DAG Node: 1
+...
+000 (230373.004.000) 2022-04-14 18:20:58 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1096_57e3>
+    DAG Node: 1
+...
+001 (230373.001.000) 2022-04-14 18:21:44 Job executing on host: <128.105.245.122:9618?addrs=128.105.245.122-9618&alias=e322.chtc.wisc.edu&noUDP&sock=startd_2404_85c3>
+...
+001 (230373.000.000) 2022-04-14 18:21:44 Job executing on host: <128.104.58.170:9618?addrs=128.104.58.170-9618+[2607-f388-1086-0-f24d-a2ff-fe40-fe02]-9618&alias=e1024.chtc.wisc.edu&noUDP&sock=startd_4864_e0be>
+...
+001 (230373.002.000) 2022-04-14 18:21:44 Job executing on host: <128.105.245.102:9618?addrs=128.105.245.102-9618&alias=e302.chtc.wisc.edu&noUDP&sock=startd_2113_ebb4>
+...
+001 (230373.003.000) 2022-04-14 18:21:44 Job executing on host: <128.105.245.202:9618?addrs=128.105.245.202-9618&alias=e2402.chtc.wisc.edu&noUDP&sock=startd_2933_5f5d>
+...
+001 (230373.004.000) 2022-04-14 18:21:44 Job executing on host: <128.104.58.167:9618?addrs=128.104.58.167-9618+[2607-f388-1086-0-16fe-b5ff-fec6-7516]-9618&alias=e1020.chtc.wisc.edu&noUDP&sock=startd_4717_0c52>
+...
+005 (230373.003.000) 2022-04-14 18:21:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1066250  -  Run Bytes Sent By Job
+	1093881  -  Run Bytes Received By Job
+	1066250  -  Total Bytes Sent By Job
+	1093881  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     2128     2048    299770 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        0     1024      1024 
+
+	Job terminated of its own accord at 2022-04-14T23:21:44Z with exit-code 0.
+...
+005 (230373.004.000) 2022-04-14 18:21:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	980189  -  Run Bytes Sent By Job
+	1012151  -  Run Bytes Received By Job
+	980189  -  Total Bytes Sent By Job
+	1012151  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1964     2048    329453 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        0     1024      1024 
+
+	Job terminated of its own accord at 2022-04-14T23:21:44Z with exit-code 0.
+...
+005 (230373.000.000) 2022-04-14 18:21:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1015253  -  Run Bytes Sent By Job
+	1045898  -  Run Bytes Received By Job
+	1015253  -  Total Bytes Sent By Job
+	1045898  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     2031     2048    330942 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        0     1024      1024 
+
+	Job terminated of its own accord at 2022-04-14T23:21:44Z with exit-code 0.
+...
+005 (230373.001.000) 2022-04-14 18:21:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	993731  -  Run Bytes Sent By Job
+	1024823  -  Run Bytes Received By Job
+	993731  -  Total Bytes Sent By Job
+	1024823  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     1989     2048    299724 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        1     1024      1024 
+
+	Job terminated of its own accord at 2022-04-14T23:21:44Z with exit-code 0.
+...
+005 (230373.002.000) 2022-04-14 18:21:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1077489  -  Run Bytes Sent By Job
+	1107682  -  Run Bytes Received By Job
+	1077489  -  Total Bytes Sent By Job
+	1107682  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     2152     2048    333680 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        0     1024      1024 
+
+	Job terminated of its own accord at 2022-04-14T23:21:45Z with exit-code 0.
+...
+016 (230373.000.000) 2022-04-14 18:21:48 POST Script terminated.
+	(1) Normal termination (return value 0)
+    DAG Node: 1
+...

@@ -1,0 +1,20 @@
+log    =    log/sd-chtc_$(Cluster)_$(proc).log
+error  =  error/sd-chtc_$(Cluster)_$(proc).err
+output = output/sd-chtc_$(Cluster)_$(proc).out
+
+universe = vanilla
+proc=$INT(Process,%02d)
+
+executable = ./process.sh
+arguments = data.txt.$(proc)
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = data.txt.$(proc)
+
+request_cpus = 1
+request_memory = 1GB
+request_disk = 2MB
+
+queue 5
+
