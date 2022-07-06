@@ -1,0 +1,36 @@
+000 (230030.003.000) 2022-04-11 16:19:59 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1096_57e3>
+    DAG Node: 1
+...
+040 (230030.003.000) 2022-04-11 16:20:11 Started transferring input files
+	Transferring to host: <128.104.58.125:9618?addrs=128.104.58.125-9618+[2607-f388-1086-0-67d-7bff-fe61-f3b4]-9618&alias=e542.chtc.wisc.edu&noUDP&sock=slot1_6_26381_8d0a_8205>
+...
+040 (230030.003.000) 2022-04-11 16:20:11 Finished transferring input files
+...
+001 (230030.003.000) 2022-04-11 16:20:12 Job executing on host: <128.104.58.125:9618?addrs=128.104.58.125-9618+[2607-f388-1086-0-67d-7bff-fe61-f3b4]-9618&alias=e542.chtc.wisc.edu&noUDP&sock=startd_4025_64c8>
+...
+006 (230030.003.000) 2022-04-11 16:20:13 Image size of job updated: 24588
+	1  -  MemoryUsage of job (MB)
+	32  -  ResidentSetSize of job (KB)
+...
+040 (230030.003.000) 2022-04-11 16:20:13 Started transferring output files
+...
+040 (230030.003.000) 2022-04-11 16:20:13 Finished transferring output files
+...
+005 (230030.003.000) 2022-04-11 16:20:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1066250  -  Run Bytes Sent By Job
+	1093881  -  Run Bytes Received By Job
+	1066250  -  Total Bytes Sent By Job
+	1093881  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :     2128     2048  11036928 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :        1     1024      1024 
+
+	Job terminated of its own accord at 2022-04-11T21:20:13Z with exit-code 0.
+...
